@@ -50,5 +50,6 @@ if st.button("Stroke"):
 st.write('NOTE: The risk of having a stroke depends on various factors, including lifestyle, medical history, and age, with older age being a significant determinant. Please consult a healthcare professional for medical advice.')
 
 
-st.write('Click-On Kaduna DSFP')
-st.write('By: Maryam Ibrahim Hamza')
+st.write('Visit Your Doctor')
+st.write('By: Community Health Workers')
+
